@@ -3,7 +3,7 @@
 # KidneyGenAfrica Malawi Workshop 2027
 
 🧬 [Wellcome Sanger Institute](https://www.sanger.ac.uk/) <br>
-🧑‍💻 [Scientific Training and Events Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+🧑‍💻 [Scientific Training and Events Website](https://coursesandconferences.wellcomeconnectingscience.org/) <br>
 🧬 [KidneyGen Website](https://www.kidneygenafrica.org/opportunities/malawi-workshop)
 
 ### Overview
@@ -35,6 +35,23 @@ Venue: Kamuzu University of Health Sciences, Lilongwe Campus, Malawi
 
 > Each course landing page is assigned a DOI via Zenodo, providing a stable and citable reference. These DOIs can be found on the respective course landing pages and can be included in CVs or research publications, offering a professional record of the course contributions.
 
+#### Training Team
+
+- [Segun Fatumo](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/segun-fatumo/?Page_ID=217703&id=1277123), Queen Mary University of London & MRC Uganda
+- [June Fabian](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/june-fabian/?Page_ID=217703&id=1277124), University of Witwatersrand
+- [Mia Crampin](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/mia-crampin/?Page_ID=217703&id=1277130), Malawi Epidemiology and Intervention Research Unit (MEIRU)
+- [Benjamin Kumwenda](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/benjamin-kumwenda/?Page_ID=217703&id=1294283), Malawi Epidemiology and Intervention Research Unit (MEIRU)
+- [Michele Ramsay](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/michele-ramsay/?Page_ID=217703&id=1294278), University of Witwatersrand
+- [Jean-Tristan Brandenburg](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/jean-tristan-brandenburg/?Page_ID=217703&id=1294279), University of Witwatersrand
+- [Michelle Bishop](https://www.linkedin.com/in/mbishopgened/), Associate Director of Learning and Training at Scientific Training and Events
+- [Moffat Nyirenda](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/moffat-nyirenda/?Page_ID=217703&id=1294289), MRC/UVRI & LSHTM Uganda Research Unit
+- [Anna Köttgen](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/anna-k%C3%B6ttgen/?Page_ID=217703&id=1294288), Institute of Genetic Epidemiology University Medical Center Freiburg
+- [Cassianne Robinson-Cohen](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/cassianne-robinson-cohen/?Page_ID=217703&id=1277129), Vanderbilt University Medical Center
+- [Sola Ojewunmi](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/sola-ojewunmi/?Page_ID=217703&id=1277128), Queen Mary University of London
+- [Annette MacLeod](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/annette-macleod/?Page_ID=217703&id=1294281), University of Glasgow, UK
+- [Walt Adamson](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/walt-adamson/?Page_ID=217703&id=1294280), University of Glasgow, UK
+- [Susan Kanjira](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/susan-kanjira/?Page_ID=217703&id=1294290), Malawi Epidemiology and Intervention Research Unit (MEIRU)
+- [Abram Kamiza](https://www.kidneygenafrica.org/about-us/2027-workshop-trainers/abram-kamiza/?Page_ID=217703&id=1294397), Malawi Epidemiology and Intervention Research Unit (MEIRU)
 
 #### Discover more about us and take the next step by applying for a course.
 
